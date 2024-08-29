@@ -2,5 +2,5 @@
 
 ### 발표 Slide : https://docs.google.com/presentation/d/1DSv-vMRAwa88ls3sF7VZkOA4zRizKgKgH9LzABmXOXk/
 ### HuggingFace Space 
-  (1) https://huggingface.co/spaces/beingcognitive/segmentation_w_object_detection
-  (2) https://huggingface.co/spaces/beingcognitive/Image_to_Music
+  * https://huggingface.co/spaces/beingcognitive/segmentation_w_object_detection
+  * https://huggingface.co/spaces/beingcognitive/Image_to_Music
